@@ -6,7 +6,7 @@ https://twitter.com/iojs_it
 
 ## Collaboratori
 - Giulia Alfonsi ([@electricg](https://github.com/electricg))
-- Francesco Carnielli ([@hex7c0](https://github.com/))
+- Francesco Carnielli ([@hex7c0](https://github.com/hex7c0))
 
 ## The MIT License (MIT)
 
