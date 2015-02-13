@@ -1,4 +1,6 @@
 # iojs Italia
+
+[![Join the chat at https://gitter.im/iojs/iojs-it](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-it?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Localizzazione e traduzione di [io.js](https://iojs.org/) in Italiano.
 
 ## Social Networks
