@@ -1,6 +1,6 @@
 # JavaScript I/O
 
-Fornisce [ES6](es6.html) alla Comunità Node!
+[ES6](es6.html) per la Comunità Node!
 
 [io.js](https://github.com/iojs/io.js) è una piattaforma compatibile con [npm](https://www.npmjs.org/) basata originariamente su [node.js](https://nodejs.org/)&#8482;.
 
@@ -18,6 +18,6 @@ o
 
 [Changelog](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md)
 
-[Rilasci notturni](https://iojs.org/download/nightly/) sono disponibili per essere testati.
+[Nightly releases](https://iojs.org/download/nightly/) sono disponibili per essere testati.
 
 [Frequently Asked Questions](/faq.html)
