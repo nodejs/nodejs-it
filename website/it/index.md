@@ -14,7 +14,7 @@ Download per
 [Win64](https://iojs.org/dist/v1.2.0/iojs-v1.2.0-x64.msi),
 [Mac](https://iojs.org/dist/v1.2.0/iojs-v1.2.0.pkg),
 o
-[Altri](https://iojs.org/dist/v1.2.0/),
+[altro](https://iojs.org/dist/v1.2.0/),
 
 [Changelog](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md)
 
