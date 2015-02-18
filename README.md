@@ -12,6 +12,7 @@ https://twitter.com/iojs_it
 - Giulia Alfonsi ([@electricg](https://github.com/electricg))
 - Francesco Carnielli ([@hex7c0](https://github.com/hex7c0))
 - Andrea Parodi ([@parroit](https://github.com/parroit))
+- Matteo Collina ([@mcollina](https://github.com/mcollina))
 
 ## The MIT License (MIT)
 
