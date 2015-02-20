@@ -14,6 +14,7 @@ https://twitter.com/iojs_it
 - Andrea Parodi ([@parroit](https://github.com/parroit))
 - Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michele Capra ([@piccoloaiutante](https://github.com/piccoloaiutante))
+- Daniele Scasciafratte ([@Mte90](https://github.com/Mte90))
 
 ## The MIT License (MIT)
 
