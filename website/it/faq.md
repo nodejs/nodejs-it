@@ -22,7 +22,7 @@ Tutti posso aiutare. io.js aderisce ad un [codice di condotta](https://github.co
 
 Per iniziare, ci sono diverse [discussioni aperte su GitHub](https://github.com/iojs/io.js/issues), e a noi piacerebbe ricevere un tuo parere.
 Partecipare nelle dicussioni è un buon punto di partena per avere un'idea di dove si può aiutare ulteriormente.
-Se c'è qualcosa che ti senti in grado di affrontare, puoi aprire [una richiesta Pull](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-contributions).
+Se c'è qualcosa che ti senti in grado di affrontare, puoi aprire [un Pull Request](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-contributions).
 
 In aggiunta, [Nodebug.me](http://nodebug.me/) è un buon punto di partenza per risolve i problemi arretrati.
 
