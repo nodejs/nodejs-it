@@ -15,6 +15,7 @@ https://twitter.com/iojs_it
 - Matteo Collina ([@mcollina](https://github.com/mcollina))
 - Michele Capra ([@piccoloaiutante](https://github.com/piccoloaiutante))
 - Daniele Scasciafratte ([@Mte90](https://github.com/Mte90))
+- Edoardo Putti ([@EdoPut](https://github.com/EdoPut))
 
 ## The MIT License (MIT)
 
