@@ -17,6 +17,15 @@ https://twitter.com/iojs_it
 - Daniele Scasciafratte ([@Mte90](https://github.com/Mte90))
 - Edoardo Putti ([@EdoPut](https://github.com/EdoPut))
 
+
+## Come aiutare
+
+Se volete contribuire al progetto di traduzione con correzioni, suggerimenti o altro,
+seguite le regole generali spiegate nelle [pagine wiki](https://github.com/iojs/iojs-it/wiki).
+
+Ogni aiuto è gradito!
+
+
 ## The MIT License (MIT)
 
 Copyright (c) 2015 - io.js
