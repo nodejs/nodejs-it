@@ -10,8 +10,8 @@ Il 13 Febbraio io.js ha raggiunto l'obiettivo delle 10000 stelle su Github. Non 
 * **stream**: Costruzione degli stream semplificata ([readable-stream/issues#102[(https://github.com/iojs/readable-stream/issues/102))
 * **dns**: `lookup()` adesso accetta un booleano per l'opzione `'all'`, di default è `false` ma quando specificato `true` il metodo ritorna un array di tutti i nomi associati ad un indirizzo. Vedi  ([iojs/pull#744](https://github.com/iojs/io.js/pull/744))
 * **assert**: Rimosso il confronto della proprietà `prototype` in `deepEqual()` ([iojs/issues#636](https://github.com/iojs/io.js/pull/636)); introdotto `deepStrictEqual()` come metodo clone di `deepEqual()` che svolge un controllo di uguaglianza sulle proprietà primitive  ([iojs/issues#639](https://github.com/iojs/io.js/pull/639)).
-* **tracing**: Aggiunge [LTTng](http://lttng.org/) (Linux Trace Toolkit Next Generation) quando viene compilato con l'opzione `--with-lttng option`. Trace points match those available for DTrace and ETW. ([iojs/issues#702](https://github.com/iojs/io.js/pull/702))
-* **docs**: Molta della documentazione aggiornata, vedi i cambiamenti individuali; aggiunte pagine dettagliate per errori specifici relativi a JavaScript, V8, e io.js.
+* **tracing**: Disponibile [LTTng](http://lttng.org/) (Linux Trace Toolkit Next Generation) quando viene compilato con l'opzione `--with-lttng option`. I dati generati sono compatibili con DTrace e ETW. ([iojs/issues#702](https://github.com/iojs/io.js/pull/702))
+* **docs**: Numerosi aggiornamenti della documentazione, vedi i cambiamenti individuali; aggiunte pagine dettagliate per errori specifici relativi a JavaScript, V8, e io.js.
 * **npm** aggiornamento alla versione 2.5.1
 * **libuv** aggiornamento alla versione 1.4.0, vedi il [ChangeLog](https://github.com/libuv/libuv/blob/v1.x/ChangeLog)
 * Aggiunti nuovi collaboratori: 
@@ -70,7 +70,7 @@ Leggi [l'articolo originale](https://medium.com/@iojs/io-js-and-a-node-js-founda
 * si sono creati molti gruppi di lavoro,
 * è arrivato ad avere 29 team di localizzazione,
 * ha portato più collaboratori al progetto di quanti ce ne siano stati nella storia di node.js, e
-* siamo riusciti a rilasciare software di qualità ad un buon passo grazie al supporto di una community eccezionale.
+* siamo riusciti a rilasciare software di qualità con un buon ritmo grazie al supporto di una community eccezionale.
 
 > Siamo disposti a lasciarci il passato alle spalle me non possiamo sacrificare i progressi che abbiamo fatto o il principio di governance aperta che ci ha portato fin qui.
 
