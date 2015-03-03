@@ -3,11 +3,11 @@
 * [node-serialport](https://github.com/voodootikigod/node-serialport/issues/439)
 * [Microsoft Azure](http://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-iojs/)
 
-## io.js a più di 10000 stelle su GitHub
+## io.js supera le 10000 stelle su GitHub
 Il 13 Febbraio io.js ha raggiunto l'obiettivo delle 10000 stelle su Github. Non ce l'avremmo fatta senza il supporto della splendida comunità JavaScript. Grazie a tutti!
 
 ## io.js 1.2.0 rilasciato
-* **stream**: Costruzione degli stream semplificata ([readable-stream/issues#102[(https://github.com/iojs/readable-stream/issues/102))
+* **stream**: Costruzione degli stream semplificata ([readable-stream/issues#102](https://github.com/iojs/readable-stream/issues/102))
 * **dns**: `lookup()` adesso accetta un booleano per l'opzione `'all'`, di default è `false` ma quando specificato `true` il metodo ritorna un array di tutti i nomi associati ad un indirizzo. Vedi  ([iojs/pull#744](https://github.com/iojs/io.js/pull/744))
 * **assert**: Rimosso il confronto della proprietà `prototype` in `deepEqual()` ([iojs/issues#636](https://github.com/iojs/io.js/pull/636)); introdotto `deepStrictEqual()` come metodo clone di `deepEqual()` che svolge un controllo di uguaglianza sulle proprietà primitive  ([iojs/issues#639](https://github.com/iojs/io.js/pull/639)).
 * **tracing**: Disponibile [LTTng](http://lttng.org/) (Linux Trace Toolkit Next Generation) quando viene compilato con l'opzione `--with-lttng option`. I dati generati sono compatibili con DTrace e ETW. ([iojs/issues#702](https://github.com/iojs/io.js/pull/702))
