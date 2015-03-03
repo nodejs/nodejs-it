@@ -1,35 +1,35 @@
-## io.js support added by... 
+## io.js è supportato da... 
 * [Postmark](http://blog.postmarkapp.com/post/110829734198/its-official-were-getting-cozy-with-node-js) 
 * [node-serialport](https://github.com/voodootikigod/node-serialport/issues/439)
 * [Microsoft Azure](http://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-iojs/)
 
-## io.js breaks 10,000 stars on GitHub
-On Feb. 13, io.js reached the goal of 10,000 stars on GitHub. We couldn't have done it without the support of the amazing community behind JavaScript. Thank you alll!
+## io.js supera le 10000 stelle su GitHub
+Il 13 Febbraio io.js ha raggiunto l'obiettivo delle 10000 stelle su Github. Non ce l'avremmo fatta senza il supporto della splendida comunità JavaScript. Grazie a tutti!
 
-## io.js 1.2.0 released
-* **stream**: Simpler stream construction ([readable-stream/issues#102[(https://github.com/iojs/readable-stream/issues/102))
-* **dns**: `lookup()` now supports an `'all'` boolean option, default to `false` but when turned on will cause the method to return an array of all resolved names for an address, see, ([iojs/pull#744](https://github.com/iojs/io.js/pull/744))
-* **assert**: Remove `prototype` property comparison in `deepEqual()` ([iojs/issues#636](https://github.com/iojs/io.js/pull/636)); introduce a `deepStrictEqual()` method to mirror `deepEqual()` but performs strict equality checks on primitives ([iojs/issues#639](https://github.com/iojs/io.js/pull/639)).
-* **tracing**: Add [LTTng](http://lttng.org/) (Linux Trace Toolkit Next Generation) when compiled with the `--with-lttng option`. Trace points match those available for DTrace and ETW. ([iojs/issues#702](https://github.com/iojs/io.js/pull/702))
-* **docs**: Lots of doc updates, see individual commits; new Errors page discussing JavaScript errors, V8 specifics, and io.js specific error details.
-* **npm** upgrade to 2.5.1
-* **libuv** upgrade to 1.4.0, see libuv [ChangeLog](https://github.com/libuv/libuv/blob/v1.x/ChangeLog)
-* Add new collaborators: 
+## io.js 1.2.0 rilasciato
+* **stream**: Costruzione degli stream semplificata ([readable-stream/issues#102](https://github.com/iojs/readable-stream/issues/102))
+* **dns**: `lookup()` adesso accetta un booleano per l'opzione `'all'`, di default è `false` ma quando specificato `true` il metodo ritorna un array di tutti i nomi associati ad un indirizzo. Vedi  ([iojs/pull#744](https://github.com/iojs/io.js/pull/744))
+* **assert**: Rimosso il confronto della proprietà `prototype` in `deepEqual()` ([iojs/issues#636](https://github.com/iojs/io.js/pull/636)); introdotto `deepStrictEqual()` come metodo clone di `deepEqual()` che svolge un controllo di uguaglianza sulle proprietà primitive  ([iojs/issues#639](https://github.com/iojs/io.js/pull/639)).
+* **tracing**: Disponibile [LTTng](http://lttng.org/) (Linux Trace Toolkit Next Generation) quando viene compilato con l'opzione `--with-lttng option`. I dati generati sono compatibili con DTrace e ETW. ([iojs/issues#702](https://github.com/iojs/io.js/pull/702))
+* **docs**: Numerosi aggiornamenti della documentazione, vedi i cambiamenti individuali; aggiunte pagine dettagliate per errori specifici relativi a JavaScript, V8, e io.js.
+* **npm** aggiornamento alla versione 2.5.1
+* **libuv** aggiornamento alla versione 1.4.0, vedi il [ChangeLog](https://github.com/libuv/libuv/blob/v1.x/ChangeLog)
+* Aggiunti nuovi collaboratori: 
   * Aleksey Smolenchuk (@lxe)
   * Shigeki Ohtsu (@shigeki)
 
-## Opened our doors to the international community
-View the [original article](https://medium.com/@mikeal/how-io-js-built-a-146-person-27-language-localization-effort-in-one-day-65e5b1c49a62) on Medium.
-* Added interested contributors to teams for their language.
-* Teams registered Twitter accounts for their teams and other relevant social media accounts.
-* Teams came up with their own ways of working together, and they became more of "community organizers," as opposed to just "translators"
+## Porte aperte alla community internazionale
+Vedi [l'atricolo originale](https://medium.com/@mikeal/how-io-js-built-a-146-person-27-language-localization-effort-in-one-day-65e5b1c49a62) su Medium.
+* Aggiunti collaboratori interessati ai team di localizzazione.
+* I team  hanno registrato gli account su Twitter e sui social media rilevanti.
+* I team hanno trovato il loro modo preferito per contribuire e sono andati oltre, avvicinandosi a essere "community organizers" invece che solamente traduttori.
 
-### Stats for Localizations: 
+### Statistiche della localizzazione: 
 
-* 146 people signed up to help with the localizations the first day (over 160 signed up now)
-* 27 languages communities created the first day (already up to 29)
+* 146 persone si sono registrare per aiutare con la localizzazione nel primo giorno (ad ora più di 160)
+* 27 community in lingua create il primo giorno (ad ora più di 29)
 
-### Language Communities
+### Community in lingua
 
 * [`iojs-bn`](https://github.com/iojs/iojs-bn) Bengali Community
 * [`iojs-cn`](https://github.com/iojs/iojs-cn) Chinese Community 
@@ -61,29 +61,29 @@ View the [original article](https://medium.com/@mikeal/how-io-js-built-a-146-per
 * [`iojs-tw`](https://github.com/iojs/iojs-tw) Taiwan Community
 * [`iojs-uk`](https://github.com/iojs/iojs-uk) Ukranian Community
 
-## io.js and Node.js
-View the [original article](https://medium.com/@iojs/io-js-and-a-node-js-foundation-4e14699fb7be) on Medium.
-* Scott Hammond, CEO of Joyent, expressed his desire to bring io.js back to the node.js.
+## io.js e Node.js
+Leggi [l'articolo originale](https://medium.com/@iojs/io-js-and-a-node-js-foundation-4e14699fb7be) su Medium.
+* Scott Hammond, CEO di Joyent, esprime il desiderio di riportare io.js in node.js.
 
-#### In only a few months io.js... 
-* Has grown to 23 active core team members
-* Has several working groups
-* Has 29 language localization teams,
-* Has drawn more contributors to the project than we’ve ever had in the history of node.js, and
-* Has been able to release quality software at a good pace with the support of an exceptional community.
+#### In pochi mesi di io.js... 
+* Il team _core_ è cresciuto fino a 23 collaboratori attivi,
+* si sono creati molti gruppi di lavoro,
+* è arrivato ad avere 29 team di localizzazione,
+* ha portato più collaboratori al progetto di quanti ce ne siano stati nella storia di node.js, e
+* siamo riusciti a rilasciare software di qualità con un buon ritmo grazie al supporto di una community eccezionale.
 
-> We are eager to put this all behind us but we can’t sacrifice the progress we’ve made or the principles and open governance that got us here.
+> Siamo disposti a lasciarci il passato alle spalle me non possiamo sacrificare i progressi che abbiamo fatto o il principio di governance aperta che ci ha portato fin qui.
 
-### The Future
-* Talks with the node.js foundation are ongoing.
-* Once the foundation has a technical governance model you will see an issue on io.js’ GitHub about whether io.js should join.
+### Il futuro
+* Gli incontri con la node.js foundation continuano a proseguire.
+* Una volta che la node.js foundation si convertirà ad un modello di governance tecnica verrà aggiunta una segnalazione alla repository di io.js su GitHub sulla questione della collaborazione.
 
-  * This will be discussed and voted on openly in a public TC meeting following the governance rules we’ve already built.
+  * Questo problema verrà discusso e votato pubblicamente in un incontro che seguirà le regole della community che abbiamo già deciso.
 
-> For the community, nothing has changed.
+> Per la comunità non cambia nulla.
 
-### What to do right now
-* Continue to send your pull requests to io.js
-* Join one of the 27 [language localization teams](https://github.com/iojs/website/issues/125)
-* Contribute to io.js’ working groups ([streams](https://github.com/iojs/readable-stream), [website](https://github.com/iojs/website), [evangelism](https://github.com/iojs/website/labels/evangelism), [tracing](https://github.com/iojs/tracing-wg), [build](https://github.com/iojs/build), [roadmap](https://github.com/iojs/roadmap)) and
-* Continue to adopt io.js in your applications.
+### Cosa fare adesso
+* Continua a mandare le tue pull requests a io.js,
+* Collabora con uno dei 27 [team di localizzazione](https://github.com/iojs/website/issues/125)
+* Collabora con i gruppi di lavoro del progetto ([streams](https://github.com/iojs/readable-stream), [website](https://github.com/iojs/website), [evangelism](https://github.com/iojs/website/labels/evangelism), [tracing](https://github.com/iojs/tracing-wg), [build](https://github.com/iojs/build), [roadmap](https://github.com/iojs/roadmap)) e
+* Continua a usare io.js nelle tue applicazioni.
