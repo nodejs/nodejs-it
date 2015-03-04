@@ -1,6 +1,6 @@
 {
   "current_version": "1.4.3",
-  "current_v8": "4.1.0.21"
+  "current_v8": "4.1.0.21",
   "contribute-message":"Qualcosa che ti interessa? Desideri aiutare? Visita https://github.com/iojs/iojs-it per contribuire",
   "heading-languages":"Traduzioni",
   "browser-title":"io.js - JavaScript I/O",
